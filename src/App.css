@@ -1,10 +1,21 @@
-.App {
-  text-align: center;
+body {
+  color: white;
+  background-color: #3C4048;
+  font-family: 'Roboto', sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  flex-direction: column;
+}
+
+.App > img {
+  width: 250px;
+  height: 200px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -35,4 +46,109 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.first {
+  display: flex;
+  flex-direction: row;
+  gap: 1em;
+  flex-wrap: wrap;
+}
+
+.searchBar {
+  margin: 2em 2em;
+}
+
+.categoryIcon {
+  display: flex;
+  width: 100px;
+  height: 150px;
+  border: 1px solid black;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.categoryIcon > h1 {
+  font-size: 1em;
+}
+
+.categoryIcon > img {
+  width: 70px;
+  height: 70px;
+}
+
+.ingredients {
+  display: flex;
+  flex-direction: row;
+  gap: 1em;
+}
+
+.Drink-List {
+  display: flex;
+  flex-direction: row;
+}
+
+.Drink-Card {
+  display: flex;
+  flex-direction: column;
+  height: 80%;
+  width: 80%;
+  margin: auto;
+}
+
+.Drink-Card > img {
+  align-self: center;
+  height: 220px;
+  width: 150px;
+  margin-bottom: 1.5em;
+}
+
+.Drink-Card > nav{
+  font-size: 2em;
+  font-weight: 200;
+}
+
+.Drink-Card > nav > a:link {
+  color: white;
+}
+
+.Drink-Card > nav > a:visited {
+  color: white;
+}
+
+.Drink-Card > .Drink-Category {
+  color: #FFCB42;
+  font-size: 1em;
+  font-weight: 300;
+  margin-bottom: 0;
+}
+
+.Drink-Card > .Drink-Name {
+  font-size: 2em;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+.Drink-Card > .Drink-Label {
+  letter-spacing: 0.5px;
+  font-size: 1em;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+.Drink-Card >.Drink-Ingredients {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-basis: 27%;
+  gap: 1em;
+}
+
+.Drink-Card >.Drink-Ingredients > .Drink-Ingredients-Icon {
+  width: 100px;
+  height: 150px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
