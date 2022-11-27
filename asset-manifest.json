@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//Cocktail-App/static/css/main.43beb879.css",
-    "main.js": "//Cocktail-App/static/js/main.a901c112.js",
-    "static/media/4.png": "//Cocktail-App/static/media/4.93ad5b6c72625fbede28.png",
-    "static/media/strawberry.png": "//Cocktail-App/static/media/strawberry.ee294a0103bb8e15f683.png",
-    "index.html": "//Cocktail-App/index.html",
-    "main.43beb879.css.map": "//Cocktail-App/static/css/main.43beb879.css.map",
-    "main.a901c112.js.map": "//Cocktail-App/static/js/main.a901c112.js.map"
+    "main.css": "/Cocktail-App/static/css/main.43beb879.css",
+    "main.js": "/Cocktail-App/static/js/main.809a5cef.js",
+    "static/media/4.png": "/Cocktail-App/static/media/4.93ad5b6c72625fbede28.png",
+    "static/media/strawberry.png": "/Cocktail-App/static/media/strawberry.ee294a0103bb8e15f683.png",
+    "index.html": "/Cocktail-App/index.html",
+    "main.43beb879.css.map": "/Cocktail-App/static/css/main.43beb879.css.map",
+    "main.809a5cef.js.map": "/Cocktail-App/static/js/main.809a5cef.js.map"
   },
   "entrypoints": [
     "static/css/main.43beb879.css",
-    "static/js/main.a901c112.js"
+    "static/js/main.809a5cef.js"
   ]
 }
