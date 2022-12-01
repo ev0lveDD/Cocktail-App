@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Cocktail-App/static/css/main.c19778c8.css",
-    "main.js": "/Cocktail-App/static/js/main.deccbf8c.js",
+    "main.js": "/Cocktail-App/static/js/main.41c26a92.js",
     "static/media/coffee.PNG": "/Cocktail-App/static/media/coffee.e961c20ac2b66202d88c.PNG",
     "static/media/punch-bowl.jpg": "/Cocktail-App/static/media/punch-bowl.32148a8fdeaa269b6788.jpg",
     "static/media/margarita-glass.jpg": "/Cocktail-App/static/media/margarita-glass.a9acdfd71b686d59b29d.jpg",
@@ -44,17 +44,16 @@
     "static/media/alcoholic.jpg": "/Cocktail-App/static/media/alcoholic.0b52d2cd2f80c72c7ac6.jpg",
     "static/media/cocktail.JPG": "/Cocktail-App/static/media/cocktail.b14480652ffc3be933aa.JPG",
     "static/media/pitcher.jpg": "/Cocktail-App/static/media/pitcher.d18acf4c0cbeca91abe1.jpg",
-    "static/media/shake-cocktail.jpg": "/Cocktail-App/static/media/shake-cocktail.1e944207e5ba813e7b36.jpg",
     "static/media/cocktail.jpg": "/Cocktail-App/static/media/cocktail.b970d65dd8c5ba153cc7.jpg",
     "static/media/whiskey.jpg": "/Cocktail-App/static/media/whiskey.e8b961b2892dbe581919.jpg",
     "static/media/optional-alcohol.jpg": "/Cocktail-App/static/media/optional-alcohol.4ed228aba1c5469ae8bc.jpg",
     "static/media/old-fashioned.jpg": "/Cocktail-App/static/media/old-fashioned.e9f005f1bb73069c9496.jpg",
     "index.html": "/Cocktail-App/index.html",
     "main.c19778c8.css.map": "/Cocktail-App/static/css/main.c19778c8.css.map",
-    "main.deccbf8c.js.map": "/Cocktail-App/static/js/main.deccbf8c.js.map"
+    "main.41c26a92.js.map": "/Cocktail-App/static/js/main.41c26a92.js.map"
   },
   "entrypoints": [
     "static/css/main.c19778c8.css",
-    "static/js/main.deccbf8c.js"
+    "static/js/main.41c26a92.js"
   ]
 }
