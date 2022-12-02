@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Cocktail-App/static/css/main.8aacf561.css",
-    "main.js": "/Cocktail-App/static/js/main.1d416884.js",
+    "main.css": "/Cocktail-App/static/css/main.f11ebbb2.css",
+    "main.js": "/Cocktail-App/static/js/main.6c920063.js",
     "static/media/coffee.PNG": "/Cocktail-App/static/media/coffee.e961c20ac2b66202d88c.PNG",
     "static/media/punch-bowl.jpg": "/Cocktail-App/static/media/punch-bowl.32148a8fdeaa269b6788.jpg",
     "static/media/margarita-glass.jpg": "/Cocktail-App/static/media/margarita-glass.a9acdfd71b686d59b29d.jpg",
@@ -49,11 +49,11 @@
     "static/media/optional-alcohol.jpg": "/Cocktail-App/static/media/optional-alcohol.4ed228aba1c5469ae8bc.jpg",
     "static/media/old-fashioned.jpg": "/Cocktail-App/static/media/old-fashioned.e9f005f1bb73069c9496.jpg",
     "index.html": "/Cocktail-App/index.html",
-    "main.8aacf561.css.map": "/Cocktail-App/static/css/main.8aacf561.css.map",
-    "main.1d416884.js.map": "/Cocktail-App/static/js/main.1d416884.js.map"
+    "main.f11ebbb2.css.map": "/Cocktail-App/static/css/main.f11ebbb2.css.map",
+    "main.6c920063.js.map": "/Cocktail-App/static/js/main.6c920063.js.map"
   },
   "entrypoints": [
-    "static/css/main.8aacf561.css",
-    "static/js/main.1d416884.js"
+    "static/css/main.f11ebbb2.css",
+    "static/js/main.6c920063.js"
   ]
 }
